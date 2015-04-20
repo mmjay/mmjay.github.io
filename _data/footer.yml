@@ -1,0 +1,10 @@
+# Footer navigation links
+
+- title: Home
+  url: /
+
+- title: Resume
+  url: /resume
+
+- title: Made Mistakes
+  url: /mistakes
