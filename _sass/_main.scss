@@ -109,14 +109,14 @@ table {
         padding: 12px;
         line-height: 1.2;
         vertical-align: top;
-        border-top: 1px solid #333;
+      //  border-top: 1px solid #333;
       }
     }
   }
   // Bottom align for column headings
-  > thead > tr > th {
+ > thead > tr > th {
     vertical-align: bottom;
-    border-bottom: 2px solid #333;
+  //  border-bottom: 2px solid #333;
   }
   // Remove top border from thead by default
   > caption + thead,
@@ -375,7 +375,7 @@ h6,
   }
 
   table {
-    font-size: 1.25rem;
+    font-size: 1.250rem;
   }
 
   .post-link .post-title {
@@ -487,7 +487,7 @@ h6,
 }
 
 .share-page {
-  font-size:  0.65em;  
+  font-size:  0.65em;
   padding: 2em 0 0 0;
 }
 

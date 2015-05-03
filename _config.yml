@@ -2,7 +2,7 @@
 title:       Michael Johnson
 email:       michael.alan.johnson@gmail.com
 author:      Michael Johnson
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: ""
 baseurl:     ""
 url:         "http://mmjay.github.io"
 
@@ -24,7 +24,7 @@ github_username:
 stackoverflow_id:
 twitter_username:
 google_plus_id:
-linkedin_username:
+linkedin_username: 'michaeljohnson'
 bitcoin_url:
 paypal_url:
 flattr_button:
