@@ -1,0 +1,22 @@
+---
+layout:     post
+title:      Hello, Pixyll
+date:       2015-04-12 12:33:19
+summary:    Michael Johnson is a B.A.
+categories: welcome
+---
+
+Hello.
+
+My name is Michael Johnson. I'm an operations junky who appreciates good design, team work, and the human body's weirdness.
+
+I'm a twin (@sarahjohnson) and hope you're cool!
+
+<blockquote>
+  <p>
+    Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
+  </p>
+  <footer><cite title="Antoine de Saint-Exupéry">Antoine de Saint-Exupéry</cite></footer>
+</blockquote>
+
+
