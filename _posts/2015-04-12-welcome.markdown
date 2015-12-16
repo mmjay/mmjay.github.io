@@ -2,7 +2,7 @@
 layout:     post
 title:      Hello, World
 date:       2015-04-12 12:33:19
-summary:    My name is Michael Johnson. I'm a twenty-something with some sugar, spice, and everything nice.
+summary:    My name is Michael Johnson. I'm a twenty-something operations junky who appreciates good design, productive teams, and organizational challenges.
 categories: welcome
 ---
 
