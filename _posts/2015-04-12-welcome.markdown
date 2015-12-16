@@ -1,12 +1,12 @@
 ---
 layout:     post
-title:      Hello, Pixyll
+title:      Hello, World
 date:       2015-04-12 12:33:19
-summary:    Michael Johnson is a B.A.
+summary:    My name is Michael Johnson. I'm a twenty-something with some sugar, spice, and everything nice.
 categories: welcome
 ---
 
-Hello.
+Hello, fellow folks.
 
 My name is Michael Johnson. I'm an operations junky who appreciates good design, team work, and the human body's weirdness.
 
