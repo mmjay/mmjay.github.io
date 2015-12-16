@@ -1,10 +1,10 @@
 # Site settings
 title:       Michael Johnson
-email:       michael.alan.johnson@gmail.com
+email:       about@mjohnson.io
 author:      Michael Johnson
 description: ""
 baseurl:     ""
-url:         "http://mmjay.github.io"
+url:         "http://mjohnson.io"
 
 # Google analytics
 google_analytics:
@@ -20,11 +20,11 @@ disqus_shortname:
 
 # Social icons
 show_social_icons: true
-github_username:
+github_username: mmjay
 stackoverflow_id:
 twitter_username:
 google_plus_id:
-linkedin_username: 'michaeljohnson'
+linkedin_username: 'mjohnson54'
 bitcoin_url:
 paypal_url:
 flattr_button:
