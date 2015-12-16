@@ -1,6 +1,6 @@
 # Site settings
 title:       Michael Johnson
-email:       about@mjohnson.io
+email:       
 author:      Michael Johnson
 description: ""
 baseurl:     ""
@@ -20,7 +20,7 @@ disqus_shortname:
 
 # Social icons
 show_social_icons: true
-github_username: mmjay
+github_username: 
 stackoverflow_id:
 twitter_username:
 google_plus_id:
