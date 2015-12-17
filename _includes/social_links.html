@@ -1,5 +1,7 @@
 <div class="social-icons">
   <div class="left">
+    {% if site.instagram_username %}
+      <a class="fa fa-instagram" href="https://www.instagram.com/{{ site.instagram_username }}"></a>
     {% if site.github_username %}
       <a class="fa fa-github" href="https://github.com/{{ site.github_username }}"></a>
     {% endif %}
