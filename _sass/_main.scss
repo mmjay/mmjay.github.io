@@ -12,15 +12,6 @@
   MIT License http://opensource.org/licenses/MIT
 
 */
-.mjimg {
-  z-index: 2;
-}
-
-.mjimg:before {
-  background: url('/clouds.png') no-repeat center;
-  z-index: 1;
-  opacity: .4;
-}
 
 body {
   font-family: "Merriweather", "PT Serif", Georgia, "Times New Roman", serif;
