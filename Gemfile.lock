@@ -37,6 +37,7 @@ GEM
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.2.1)
       sass (~> 3.2)
+    jekyll-srcset
     jekyll-sitemap (0.6.1)
     jekyll-watch (1.1.2)
       listen (~> 2.7)
@@ -92,3 +93,4 @@ DEPENDENCIES
   jekyll-sitemap (~> 0.6.1)
   octopress (~> 3.0.0.rc.12)
   sass
+  jekyll-srcset
