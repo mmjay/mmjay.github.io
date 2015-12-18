@@ -57,6 +57,11 @@ body {
   width: 100%;
 }
 
+.site-header-hero a {
+  color: #eeeeee;
+  font-weight: 300;
+}
+
 .site-header a {
   color: #333;
   font-weight: 300;
@@ -67,10 +72,21 @@ body {
   color: #666;
 }
 
+.site-header-hero nav a {
+  font-size: 1rem;
+  color:#eeeeee;
+}
+
 .site-header nav a:hover {
   color: #444;
   opacity: 1;
   border-bottom: 2px solid #444;
+}
+
+.site-header-hero nav a:hover {
+  color: #eeeeee;
+  opacity: 1;
+  border-bottom: 2px solid #fff;
 }
 
 .site-nav a + a {
@@ -82,7 +98,7 @@ body {
   padding: 0;
 }
 
-.site-header a:hover,
+.site-header a:hover, .site-header-hero a:hover,
 .posts .post a:hover .post-meta,
 .posts .post a:hover .post-title,
 .posts .post a:hover .post-summary {
