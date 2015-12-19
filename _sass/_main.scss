@@ -20,51 +20,51 @@
 */
 
 .hero-color{
-  -webkit-animation: color_change 1s infinite alternate;
-	-moz-animation: color_change 1s infinite alternate;
-	-ms-animation: color_change 1s infinite alternate;
-	-o-animation: color_change 1s infinite alternate;
-	animation: color_change 1s infinite alternate;
+  -webkit-animation: color_change 10s 3s 2 alternate;
+	-moz-animation: color_change 10s 3s 2 alternate;
+	-ms-animation: color_change 10s 3s 2 alternate;
+	-o-animation: color_change 10s 3s 2 alternate;
+	animation: color_change 10s 3s 2 alternate;
 }
 
 @-webkit-keyframes color_change {
-0% { background-color: blue; }
-25% { background-color: orange; }
-50% { background-color: yellow; }
-75% { background-color: black; }
-100% { background-color: red; }
+0% { background-color: #eeeeee; }
+25% { background-color: #0096cc; }
+50% { background-color: #ff5522; }
+75% { background-color: #00ff66; }
+100% { background-color: #333333; }
 }
 
 @-moz-keyframes color_change {
-0% { background-color: blue; }
-25% { background-color: orange; }
-50% { background-color: yellow; }
-75% { background-color: black; }
-100% { background-color: red; }
+0% { background-color: #eeeeee; }
+25% { background-color: #0096cc; }
+50% { background-color: #ff5522; }
+75% { background-color: #00ff66; }
+100% { background-color: #333333; }
 }
 
 @-ms-keyframes color_change {
-0% { background-color: blue; }
-25% { background-color: orange; }
-50% { background-color: yellow; }
-75% { background-color: black; }
-100% { background-color: red; }
+0% { background-color: #eeeeee; }
+25% { background-color: #0096cc; }
+50% { background-color: #ff5522; }
+75% { background-color: #00ff66; }
+100% { background-color: #333333; }
 }
 
 @-o-keyframes color_change {
-0% { background-color: blue; }
-25% { background-color: orange; }
-50% { background-color: yellow; }
-75% { background-color: black; }
-100% { background-color: red; }
+0% { background-color: #eeeeee; }
+25% { background-color: #0096cc; }
+50% { background-color: #ff5522; }
+75% { background-color: #00ff66; }
+100% { background-color: #333333; }
 }
 
 @keyframes color_change {
-0% { background-color: blue; }
-25% { background-color: orange; }
-50% { background-color: yellow; }
-75% { background-color: black; }
-100% { background-color: red; }
+0% { background-color: #eeeeee; }
+25% { background-color: #0096cc; }
+50% { background-color: #ff5522; }
+75% { background-color: #00ff66; }
+100% { background-color: #333333; }
 }
 
 
