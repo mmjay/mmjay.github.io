@@ -19,7 +19,6 @@
   
 */
 .hero-90{
-  background-image: url("/images/bg-1.png");
   -webkit-animation: color_change 10s 3s 2 alternate;
 	-moz-animation: color_change 10s 3s 2 alternate;
 	-ms-animation: color_change 10s 3s 2 alternate;
@@ -28,43 +27,93 @@
 }
 
 @-webkit-keyframes color_change {
-0% { background-color: #eeeeee; }
-25% { background-color: #0096cc; }
-50% { background-color: #ff5522; }
-75% { background-color: #00ff66; }
-100% { background-color: #333333; }
+0% {  background-color: #eeeeee; 
+      background-image: url("/images/bg-1.png")
+}
+25% { background-color: #0096cc; 
+      background-image: url("/images/bg-3.png")
+}
+50% { background-color: #ff5522; 
+      background-image: url("/images/bg-2.png")
+}
+75% { background-color: #00ff66; 
+      background-image: url("/images/bg-1.png")
+}
+100% {background-color: #333333; 
+      background-image: url("/images/bg-3.png")
+}
 }
 
 @-moz-keyframes color_change {
-0% { background-color: #eeeeee; }
-25% { background-color: #0096cc; }
-50% { background-color: #ff5522; }
-75% { background-color: #00ff66; }
-100% { background-color: #333333; }
+0% {  background-color: #eeeeee; 
+      background-image: url("/images/bg-1.png")
+}
+25% { background-color: #0096cc; 
+      background-image: url("/images/bg-3.png")
+}
+50% { background-color: #ff5522; 
+      background-image: url("/images/bg-2.png")
+}
+75% { background-color: #00ff66; 
+      background-image: url("/images/bg-1.png")
+}
+100% {background-color: #333333; 
+      background-image: url("/images/bg-3.png")
+}
 }
 
 @-ms-keyframes color_change {
-0% { background-color: #eeeeee; }
-25% { background-color: #0096cc; }
-50% { background-color: #ff5522; }
-75% { background-color: #00ff66; }
-100% { background-color: #333333; }
+0% {  background-color: #eeeeee; 
+      background-image: url("/images/bg-1.png")
+}
+25% { background-color: #0096cc; 
+      background-image: url("/images/bg-3.png")
+}
+50% { background-color: #ff5522; 
+      background-image: url("/images/bg-2.png")
+}
+75% { background-color: #00ff66; 
+      background-image: url("/images/bg-1.png")
+}
+100% {background-color: #333333; 
+      background-image: url("/images/bg-3.png")
+}
 }
 
 @-o-keyframes color_change {
-0% { background-color: #eeeeee; }
-25% { background-color: #0096cc; }
-50% { background-color: #ff5522; }
-75% { background-color: #00ff66; }
-100% { background-color: #333333; }
+0% {  background-color: #eeeeee; 
+      background-image: url("/images/bg-1.png")
+}
+25% { background-color: #0096cc; 
+      background-image: url("/images/bg-3.png")
+}
+50% { background-color: #ff5522; 
+      background-image: url("/images/bg-2.png")
+}
+75% { background-color: #00ff66; 
+      background-image: url("/images/bg-1.png")
+}
+100% {background-color: #333333; 
+      background-image: url("/images/bg-3.png")
+}
 }
 
 @keyframes color_change {
-0% { background-color: #eeeeee; }
-25% { background-color: #0096cc; }
-50% { background-color: #ff5522; }
-75% { background-color: #00ff66; }
-100% { background-color: #333333; }
+0% {  background-color: #eeeeee; 
+      background-image: url("/images/bg-1.png")
+}
+25% { background-color: #0096cc; 
+      background-image: url("/images/bg-3.png")
+}
+50% { background-color: #ff5522; 
+      background-image: url("/images/bg-2.png")
+}
+75% { background-color: #00ff66; 
+      background-image: url("/images/bg-1.png")
+}
+100% {background-color: #333333; 
+      background-image: url("/images/bg-3.png")
+}
 }
 
 
