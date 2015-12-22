@@ -20,19 +20,19 @@
 */
 .hero-90{
   -webkit-animation: color_change 10s linear 1s infinite alternate,
-  bg_change 1s linear 1s infinite
+  bg_change .5s linear 0s infinite
   ;
 	-moz-animation: color_change 10s linear 1s infinite alternate,
-  bg_change 1s linear 1s infinite
+  bg_change .5s linear 0s infinite
   ;
 	-ms-animation: color_change 10s linear 1s infinite alternate,
-  bg_change 1s linear 1s infinite
+  bg_change .5s linear 0s infinite
   ;
 	-o-animation: color_change 10s linear 1s infinite alternate,
-  bg_change 1s linear 1s infinite
+  bg_change .5s linear 0s infinite
   ;
 	animation: color_change 10s linear 1s infinite alternate,
-  bg_change 1s linear 1s infinite
+  bg_change .5s linear 0s infinite
   ;
 }
 
