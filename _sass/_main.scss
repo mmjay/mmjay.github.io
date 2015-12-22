@@ -19,103 +19,92 @@
   
 */
 .hero-90{
-  -webkit-animation: color_change 10s 3s 2 alternate;
-	-moz-animation: color_change 10s 3s 2 alternate;
-	-ms-animation: color_change 10s 3s 2 alternate;
-	-o-animation: color_change 10s 3s 2 alternate;
-	animation: color_change 10s 3s 2 alternate;
+  -webkit-animation: color_change 10s linear 1s infinite alternate,
+  bg_change 3s linear 1s infinite
+  ;
+	-moz-animation: color_change 10s linear 1s infinite alternate,
+  bg_change 3s linear 1s infinite
+  ;
+	-ms-animation: color_change 10s linear 1s infinite alternate,
+  bg_change 3s linear 1s infinite
+  ;
+	-o-animation: color_change 10s linear 1s infinite alternate,
+  bg_change 3s linear 1s infinite
+  ;
+	animation: color_change 10s linear 1s infinite alternate,
+  bg_change 3s linear 1s infinite
+  ;
 }
 
 @-webkit-keyframes color_change {
-0% {  background-color: #eeeeee; 
-      background-image: url("/images/bg-1.png")
+0% {  background-color: #eeeeee; }
+25% { background-color: #0096cc; }
+50% { background-color: #ff5522; }
+75% { background-color: #00ff66; }
+100% {background-color: #333333; }
 }
-25% { background-color: #0096cc; 
-      background-image: url("/images/bg-3.png")
-}
-50% { background-color: #ff5522; 
-      background-image: url("/images/bg-2.png")
-}
-75% { background-color: #00ff66; 
-      background-image: url("/images/bg-1.png")
-}
-100% {background-color: #333333; 
-      background-image: url("/images/bg-3.png")
-}
+
+@-webkit-keyframes bg_change {
+0%  { background-image:url("/images/bg-1.png"); }
+50% { background-image:url("/images/bg-2.png"); }
+100% { background-image:url("/images/bg-2.png"); }
 }
 
 @-moz-keyframes color_change {
-0% {  background-color: #eeeeee; 
-      background-image: url("/images/bg-1.png")
+0% {  background-color: #eeeeee; }
+25% { background-color: #0096cc; }
+50% { background-color: #ff5522; }
+75% { background-color: #00ff66; }
+100% {background-color: #333333; }
 }
-25% { background-color: #0096cc; 
-      background-image: url("/images/bg-3.png")
-}
-50% { background-color: #ff5522; 
-      background-image: url("/images/bg-2.png")
-}
-75% { background-color: #00ff66; 
-      background-image: url("/images/bg-1.png")
-}
-100% {background-color: #333333; 
-      background-image: url("/images/bg-3.png")
-}
+
+@-moz-keyframes bg_change {
+  0%  { background-image:url("/images/bg-1.png"); }
+50% { background-image:url("/images/bg-2.png"); }
+100% { background-image:url("/images/bg-2.png"); }
 }
 
 @-ms-keyframes color_change {
-0% {  background-color: #eeeeee; 
-      background-image: url("/images/bg-1.png")
+0% {  background-color: #eeeeee; }
+25% { background-color: #0096cc; }
+50% { background-color: #ff5522; }
+75% { background-color: #00ff66; }
+100% {background-color: #333333; }
 }
-25% { background-color: #0096cc; 
-      background-image: url("/images/bg-3.png")
-}
-50% { background-color: #ff5522; 
-      background-image: url("/images/bg-2.png")
-}
-75% { background-color: #00ff66; 
-      background-image: url("/images/bg-1.png")
-}
-100% {background-color: #333333; 
-      background-image: url("/images/bg-3.png")
-}
+
+@-ms-keyframes bg_change {
+  0%  { background-image:url("/images/bg-1.png"); }
+50% { background-image:url("/images/bg-2.png"); }
+100% { background-image:url("/images/bg-2.png"); }
 }
 
 @-o-keyframes color_change {
-0% {  background-color: #eeeeee; 
-      background-image: url("/images/bg-1.png")
+0% {  background-color: #eeeeee; }
+25% { background-color: #0096cc; }
+50% { background-color: #ff5522; }
+75% { background-color: #00ff66; }
+100% {background-color: #333333; }
 }
-25% { background-color: #0096cc; 
-      background-image: url("/images/bg-3.png")
-}
-50% { background-color: #ff5522; 
-      background-image: url("/images/bg-2.png")
-}
-75% { background-color: #00ff66; 
-      background-image: url("/images/bg-1.png")
-}
-100% {background-color: #333333; 
-      background-image: url("/images/bg-3.png")
-}
+
+@-o-keyframes bg_change {
+  0%  { background-image:url("/images/bg-1.png"); }
+50% { background-image:url("/images/bg-2.png"); }
+100% { background-image:url("/images/bg-2.png"); }
 }
 
 @keyframes color_change {
-0% {  background-color: #eeeeee; 
-      background-image: url("/images/bg-1.png")
-}
-25% { background-color: #0096cc; 
-      background-image: url("/images/bg-3.png")
-}
-50% { background-color: #ff5522; 
-      background-image: url("/images/bg-2.png")
-}
-75% { background-color: #00ff66; 
-      background-image: url("/images/bg-1.png")
-}
-100% {background-color: #333333; 
-      background-image: url("/images/bg-3.png")
-}
+0% {  background-color: #eeeeee; }
+25% { background-color: #0096cc; }
+50% { background-color: #ff5522; }
+75% { background-color: #00ff66; }
+100% {background-color: #333333; }
 }
 
+@keyframes bg_change {
+  0%  { background-image:url("/images/bg-1.png"); }
+50% { background-image:url("/images/bg-2.png"); }
+100% { background-image:url("/images/bg-2.png"); }
+}
 
 
 /*
