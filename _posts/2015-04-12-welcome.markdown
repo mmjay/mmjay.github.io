@@ -6,11 +6,15 @@ summary:    My name is Michael Johnson. I'm a twenty-something operations junky 
 categories: welcome
 ---
 
-Hello, fellow folks.
+Hello!
 
-My name is Michael Johnson. I'm an operations junky who appreciates good design, team work, and the human body's weirdness.
+I'm a Californian expat who just relocated to the Seattle WA-are by way of Washington DC. I like operations and project management.
 
-I'm a twin (@sarahjohnson) and hope you're cool!
+My professional career so far has led to some very interesting(?) situations and duties. Here's to 
+
+
+
+Oh yeah: I'm a twin (<a href="" comment="faked you out">@sarah</a>)
 
 <blockquote>
   <p>
