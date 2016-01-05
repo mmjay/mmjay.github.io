@@ -1,16 +1,14 @@
 ---
 layout:     post
-title:      Hello, World
-date:       2015-04-12 12:33:19
-summary:    My name is Michael Johnson. I'm a twenty-something operations junky who appreciates good design, productive teams, and organizational challenges.
+title:      Chronicling Work
+date:       2015-11-23 12:33:19
+summary:    My name is Michael Johnson. I'm a twenty-something sharing work.
 categories: welcome
 ---
 
-Hello!
+Hello! My name is Michael Johnson. I'm a twenty-something operations junky who appreciates good design, productive teams, and organizational challenges. I'm a Californian expat living in Seattle WA.
 
-I'm a Californian expat who just relocated to the Seattle WA-are by way of Washington DC. I like operations and project management.
-
-My professional career so far has led to some very interesting(?) situations and duties. Here's to 
+While My professional career so far has led to some very interesting(?) situations and duties. Here's to 
 
 
 
