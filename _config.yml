@@ -7,7 +7,7 @@ baseurl:     ""
 url:         "http://mjohnson.io"
 
 # Google analytics
-google_analytics:
+google_analytics: UA-72223610-2
 
 # Optional features
 animated:           true
