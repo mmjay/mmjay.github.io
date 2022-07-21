@@ -1,3 +1,5 @@
+---
+layout: gallery
+title: M+Z photos
+---
 # Photos
-
-{% include gallery.html folder="layouts" %}
