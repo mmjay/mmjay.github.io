@@ -2,6 +2,8 @@
 Please join us for our wedding ceremony and dinner on
 September 2, 2022
 
+[Pics]({% link PICS.md %})
+
 # What to Expect
 ## Thursday
 
