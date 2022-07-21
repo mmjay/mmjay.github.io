@@ -3,15 +3,11 @@ Please join us for our wedding ceremony and dinner on
 September 2, 2022
 
 # What to Expect
-## Thursday
-8:00pm, September 1, 2022
-Out of Towner Dinner in West Village
+## Ceremony
+6 to 6:30pm, September 2, 2022
+Please arrive at 211 CPW, NYC by **5:00pm**
+We will walk together into Central Park and go to the Shakespeare Garden. There will not be chairs during the ceremony. Photos will be taken with everyone after the ceremony. 
 
-## Friday
-5:00pm - 10:00pm, September 2, 2022
-Please arrive at 211 CPW, NYC by 5:00pm
-We will walk into Central Park at 5:15pm and go to Shakespeare . The ceremony will be standing
-
-## Saturday
-
+## Dinner
+7 to 10pm
 {% include gallery.html folder="/img" %}
