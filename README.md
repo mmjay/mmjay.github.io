@@ -12,3 +12,5 @@ September 2, 2022
 Please arrive at 211 CPW, NYC by 5:00pm
 
 ## Saturday
+
+{% include gallery.html folder="/img" %}
