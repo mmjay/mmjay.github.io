@@ -11,7 +11,7 @@ We have reserved the private dining room at Gramercy Tavern. Toasts *may* be tol
 
 # Other Details
 ## Gifts
-If you'd like to give us a gift, we'd love something that reminds you of us that we can display in our home. Or, please make a donation to your favorite nonprofit in our honor.
+Your attendance is a gift to us, but if you feel you want to give something more, we'd love something that we can display in our home that reminds you of us or donations to your favorite non-profit in our honor.
 
 {% include gallery.html folder="/img" %}
 
