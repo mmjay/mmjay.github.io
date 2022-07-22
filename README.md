@@ -1,10 +1,10 @@
-<p align="center">
-  <h1>Michael Johnson and Zander Ebin</h1>
-  <h2>September 2, 2022</h2>
-  <h2>New York City</h2>
+# Michael Johnson and Zander Ebin
+September 2, 2022
+
+New York City
+
 Please join us for our wedding celebration!
-</p>
-{% include gallery.html folder="/img" %}
+
 
 # What to Expect
 ## Ceremony
@@ -18,3 +18,7 @@ We have reserved the private dining room at Gramercy Tavern. Toasts *may* be tol
 # Other Details
 ## Gifts
 If you'd like to give us a gift, we'd love something that reminds you of us that we can display in our home. Or, please make a donation to your favorite nonprofit in our honor.
+
+{% include gallery.html folder="/img" %}
+
+❤️
