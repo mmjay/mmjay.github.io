@@ -1,10 +1,4 @@
-# Michael Johnson and Zander Ebin
-September 2, 2022
-
-New York City
-
-Please join us for our wedding celebration!
-
+We can't wait to celebrate our marriage with you!
 
 # What to Expect
 ## Ceremony
