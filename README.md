@@ -2,7 +2,7 @@ We can't wait to celebrate our marriage with you!
 
 # What to Expect
 ## Ceremony
-Please arrive at 211 Central Park West by **6pm**. We will walk together into Central Park and go to the Shakespeare Garden. There will not be chairs during the ceremony. We will take family photos after the ceremony and then take cabs to dinner.
+Please arrive at 211 Central Park West by **6pm**. We will walk together into Central Park and go to the Shakespeare Garden. We are not able to provide chairs during the ceremony. After the ceremony, will take family photos and then taxi to dinner.
 
 ## Dinner
 Gramercy Tavern @ 42 E 20th St, New York, NY 10003
