@@ -1,4 +1,4 @@
-We can't wait to celebrate our marriage with you!
+We can't wait to celebrate with you!
 
 # What to Expect
 ## Ceremony
