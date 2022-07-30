@@ -10,6 +10,9 @@ Gramercy Tavern @ 42 E 20th St, New York, NY 10003
 We have reserved the private dining room at Gramercy Tavern. Our plan is to get to the restaurant by 7:30pm. Toasts are welcomed before dinner. We have the room until 11pm.
 
 # Other Details
+## RSVP
+Send Michael and Zander a text if you are able to make it.
+
 ## Dress Code
 Please dress semi-formal -- we will be wearing suits 😊
 
