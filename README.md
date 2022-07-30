@@ -1,5 +1,3 @@
-We can't wait to celebrate with you!
-
 # What to Expect
 ## Ceremony
 Please arrive at 211 Central Park West by **5pm**. We will walk together into Central Park and go to the Shakespeare Garden. After the ceremony, will take family photos and then taxi to dinner.
