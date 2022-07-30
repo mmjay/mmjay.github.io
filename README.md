@@ -11,10 +11,10 @@ We have reserved the private dining room at Gramercy Tavern. Our plan is to get 
 
 # Other Details
 ## RSVP
-Send Michael and Zander a text if you are able to make it.
+Text us to confirm that you will be joining.
 
-## Dress Code
-Please dress semi-formal -- we will be wearing suits 😊
+## Attire
+Cocktail attire -- we will be wearing suits and ties 😊
 
 ## Gifts
 Your attendance is a gift to us, but if you feel you want to give something more, please make a donation to your favorite charity in our honor.
