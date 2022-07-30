@@ -7,9 +7,12 @@ Please arrive at 211 Central Park West by **5pm**. We will walk together into Ce
 ## Dinner
 Gramercy Tavern @ 42 E 20th St, New York, NY 10003
 
-We have reserved the private dining room at Gramercy Tavern. Toasts are welcomed before dinner. We have the room until 11pm.
+We have reserved the private dining room at Gramercy Tavern. Our plan is to get to the restaurant by 7:30pm. Toasts are welcomed before dinner. We have the room until 11pm.
 
 # Other Details
+## Dress Code
+Please dress semi-formal -- we will be wearing suits 😊
+
 ## Gifts
 Your attendance is a gift to us, but if you feel you want to give something more, please make a donation to your favorite charity in our honor.
 
