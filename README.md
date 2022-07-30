@@ -11,7 +11,7 @@ We have reserved the private dining room at Gramercy Tavern. Our plan is to get 
 ## RSVP
 Text us to confirm that you will be joining.
 
-## Attire
+## Dress Code
 Cocktail attire (we will be wearing suits and ties) 😊
 
 ## COVID
